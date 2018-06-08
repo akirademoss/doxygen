@@ -43,7 +43,7 @@ int constexpYYlex();
 %}
 
 %no-lines
-"%define api.prefix{"constexpYY"}
+"%define api.prefix{"constexpYY"}"
 
 %token TOK_QUESTIONMARK
 %token TOK_COLON
